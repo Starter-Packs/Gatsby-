@@ -8,4 +8,6 @@ const Blog=()=>{
         </Layout>
     )
 
+
 }
+export default Blog
