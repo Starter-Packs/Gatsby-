@@ -4,7 +4,8 @@ date: "2019-04-04"
 ---
 
 I just launched a new bootcamp!
-![gatsby](./gatsby.jfif)
+
+![Grass](./grass.png)
 
 ## Topics Covered
 
